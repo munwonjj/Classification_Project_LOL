@@ -1,7 +1,7 @@
 ### Project Proposal - Predicting win/loss rate of ranked game in League of Legends (5 vs 5 multiplayer online game)
 
 Question/need:
-* Is it possible to predict the win/loss rate of ranked game(League of Legends) with classification model?
+* How accurately can we predict the win/loss rate of ranked game(League of Legends) with classification model?
 * The goal of this project is to try to accurately predict the win/loss rate of the ranked match games to possibly provide insights as to what factors
 influence the game
 
