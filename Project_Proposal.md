@@ -7,7 +7,7 @@ influence the game
 
 Data Description:
 * League of Legends ranked challenger dataset from Kaggle [Kaggle Dataset](https://www.kaggle.com/gyejr95/league-of-legends-challenger-ranked-games2020/)
-* 260,000+ observations
+* 26,000+ observations
 * 50 features, 24 features for both A+B team
 * Target Variable: blueWins
 
