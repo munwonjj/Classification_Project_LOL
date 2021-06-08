@@ -1,8 +1,7 @@
 ### Minimum Viable Product (MVP)
 
 
-After trying out several different subsets of features, the model performed best when all features were included. With all the features included, \
-F1 score was around 0.973
+After trying out several different subsets of features, the model performed best when all features were included. Below are the scores with all the features included
 
  Accuracy: 0.973 \
  Precision: 0.972 \
