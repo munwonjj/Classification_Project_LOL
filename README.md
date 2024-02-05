@@ -12,7 +12,7 @@ was chosen as the final model for better interprebility.
 1. [ROC/AUC Curve for 3 Different Models](https://github.com/munwonjj/Classification_Project/blob/main/all_ROC_curves.png)
 2. [Confusion Matrix](https://github.com/munwonjj/Classification_Project/blob/main/confusion_matrix_graph.png)
 3. [Presentation PPT](https://github.com/munwonjj/Classification_Project/blob/main/Classification%20-%20Predicting%20Win_Loss%20of%20LOL%20Game.pdf)
-4. [Presentaiton Recording - YouTube](https://www.youtube.com/watch?v=Zx7Gf8w8l24](https://youtu.be/xT7gdF3qBmc](https://www.youtube.com/watch?v=xT7gdF3qBmc))
+4. [Presentaiton Recording - YouTube](https://youtu.be/xT7gdF3qBmc)
 
 ## Tools
 
